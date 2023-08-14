@@ -1,6 +1,6 @@
-#Aula 14/08/2023
+# Aula 14/08/2023
 
-##Instalando dependências
+## Instalando dependências
 
 ``npm init -y``
 
